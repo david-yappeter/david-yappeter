@@ -1,4 +1,4 @@
-# Blog posts
+# 📕 <b> Medium posts </b>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
