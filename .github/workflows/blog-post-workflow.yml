@@ -1,5 +1,8 @@
 name: Latest Medium Post Workflow
 on:
+  push:
+    branches:
+      - master
   schedule:
     #Runs Every Day
     - cron: '* 0 * * *'
