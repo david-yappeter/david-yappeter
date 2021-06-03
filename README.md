@@ -1,5 +1,6 @@
 # 📕 <b> Medium posts </b>
 <!-- BLOG-POST-LIST:START -->
+- [Go + GraphQL + CockroachDB](https://david-yappeter.medium.com/go-graphql-cockroachdb-2e2adcebdb43?source=rss-976c6cc56fa8------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
