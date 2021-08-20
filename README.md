@@ -1,5 +1,6 @@
 # 📕 <b> Medium posts </b>
 <!-- BLOG-POST-LIST:START -->
+- [Gqlgen Custom Data Validation — Part 1](https://david-yappeter.medium.com/gqlgen-custom-data-validation-part-1-7de8ef92de4c?source=rss-976c6cc56fa8------2)
 - [Go-CockroachDB](https://david-yappeter.medium.com/go-graphql-cockroachdb-2e2adcebdb43?source=rss-976c6cc56fa8------2)
 <!-- BLOG-POST-LIST:END -->
 
