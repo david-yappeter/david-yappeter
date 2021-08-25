@@ -1,4 +1,4 @@
-# 📕 <b> Medium posts </b>
+# 📕 <b> Latest Medium posts </b>
 <!-- BLOG-POST-LIST:START -->
 - [Authenticate Go-GraphQL with JWT](https://david-yappeter.medium.com/authenticate-go-graphql-with-jwt-436c74340d?source=rss-976c6cc56fa8------2)
 - [Gqlgen Custom Data Validation — Part 2](https://david-yappeter.medium.com/gqlgen-custom-data-validation-part-2-c3fd5766c341?source=rss-976c6cc56fa8------2)
