@@ -1,5 +1,6 @@
 # 📕 <b> Latest Medium posts </b>
 <!-- BLOG-POST-LIST:START -->
+- [The Importance of Dataloader in GraphQL (Go)](https://david-yappeter.medium.com/the-importance-of-dataloader-in-graphql-go-4d5214869b20?source=rss-976c6cc56fa8------2)
 - [Authenticate Go-GraphQL with JWT](https://medium.com/geekculture/authenticate-go-graphql-with-jwt-436c74340d?source=rss-976c6cc56fa8------2)
 - [Gqlgen Custom Data Validation — Part 2](https://david-yappeter.medium.com/gqlgen-custom-data-validation-part-2-c3fd5766c341?source=rss-976c6cc56fa8------2)
 - [Gqlgen Custom Data Validation — Part 1](https://david-yappeter.medium.com/gqlgen-custom-data-validation-part-1-7de8ef92de4c?source=rss-976c6cc56fa8------2)
