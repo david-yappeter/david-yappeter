@@ -1,5 +1,6 @@
 # 📕 <b> Latest Medium posts </b>
 <!-- BLOG-POST-LIST:START -->
+- [Golang MySQL Integration Test](https://david-yappeter.medium.com/golang-mysql-integration-test-433a2b00dbfe?source=rss-976c6cc56fa8------2)
 - [Golang Pass by value vs Pass by reference](https://david-yappeter.medium.com/golang-pass-by-value-vs-pass-by-reference-e48aac8b2716?source=rss-976c6cc56fa8------2)
 - [The Importance of Dataloader in GraphQL (Go)](https://david-yappeter.medium.com/the-importance-of-dataloader-in-graphql-go-4d5214869b20?source=rss-976c6cc56fa8------2)
 - [Authenticate Go-GraphQL with JWT](https://medium.com/geekculture/authenticate-go-graphql-with-jwt-436c74340d?source=rss-976c6cc56fa8------2)
