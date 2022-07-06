@@ -2,6 +2,8 @@
 <a href="https://www.linkedin.com/in/david-yappeter-969a531a9" rel="noopener noreferrer" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" height="30"></a> &nbsp;
 <a href="https://david-yappeter.medium.com" rel="noopener noreferrer" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Medium_colored_svg-512.png" height="30"></a> &nbsp;
 
+[CV](https://david-yappeter.github.io/CV/)
+
 # 📕 <b> Latest Medium posts </b>
 <!-- BLOG-POST-LIST:START -->
 - [Context in Go Programming — Part 1](https://david-yappeter.medium.com/context-in-go-programming-part-1-3a8d470617d0?source=rss-976c6cc56fa8------2)
