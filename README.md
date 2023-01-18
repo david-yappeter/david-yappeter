@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=david-yappeter)
+
 <a href="https://stackoverflow.com/users/17488015/david-yappeter" rel="noopener noreferrer" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png" height="30"></a> &nbsp;
 <a href="https://www.linkedin.com/in/david-yappeter-969a531a9" rel="noopener noreferrer" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" height="30"></a> &nbsp;
 <a href="https://david-yappeter.medium.com" rel="noopener noreferrer" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Medium_colored_svg-512.png" height="30"></a> &nbsp;
