@@ -1,3 +1,5 @@
+<a href="https://github.com/egonelbre/gophers"><img src="https://raw.githubusercontent.com/egonelbre/gophers/master/.thumb/animation/gopher-dance-long.gif" ></a>
+
 ![](https://komarev.com/ghpvc/?username=david-yappeter)
 
 <a href="https://stackoverflow.com/users/17488015/david-yappeter" rel="noopener noreferrer" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png" height="30"></a> &nbsp;
